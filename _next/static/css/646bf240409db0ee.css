@@ -4981,6 +4981,6 @@ ul {
     border-top-right-radius: 0 !important;
   }
   .rounded-t-18 {
-    border-top-left-radius: 1.8rem;
-    border-top-right-radius: 1.8rem;
+    border-top-left-radius: 0 !important;
+    border-top-right-radius: 0 !important;
   }
