@@ -14791,7 +14791,7 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
                           }),
                           " ",
                           (0, n.jsx)("a", {
-                            href: "mailto:?subject=Pebble - "
+                            href: "mailto:?subject=Apt 24® - "
                               .concat(
                                 null == e ? void 0 : e.data.title,
                                 "&body="
