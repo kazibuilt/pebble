@@ -4984,3 +4984,7 @@ ul {
     border-top-left-radius: 0 !important;
     border-top-right-radius: 0 !important;
   }
+
+  #__next > div:nth-child(4) > div > div.home > div.transition-path.relative > section > div.relative.bg-light_beige.z-1 > div > div.absolute.px-container.top-container.w-full.grid.grid-cols-6.lg\:grid-cols-12.mt-\[6rem\].xl\:mt-0.z-2 > div > div.hidden.lg\:block.text-white.text-center.overflow-hidden {
+    padding-top:40vh !important;
+  }
