@@ -1137,7 +1137,7 @@
               children: (0, n.jsxs)("div", {
                 ref: t,
                 className:
-                  "relative h-[100vw] rounded-13 overflow-hidden bg-light_beige",
+                  "relative h-[100vw] rounded-13 overflow-hidden bg-light_beige dnone",
                 children: [
                   (0, n.jsx)("div", {
                     className: "w-full h-full",
