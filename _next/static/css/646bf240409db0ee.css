@@ -11,6 +11,10 @@
   --padding-half-container: 1rem;
   --vh: calc(var(--wh, 1vh) * 100);
 }
+
+.padtop-40 {
+  padding-top:40vh !important;
+}
 @media (min-width: 768px) {
   :root {
     --size: 600;
