@@ -1959,7 +1959,7 @@
                         (0, n.jsxs)("div", {
                           ref: k,
                           className:
-                            "hidden absolute left-0 top-0 w-full h-full z-4 pointer-events-none flex items-end",
+                            "hidden absolute left-0 top-0 w-full h-full z-4 pointer-events-none flex items-end dnone",
                           children: [
                             (0, n.jsxs)("video", {
                               ref: R,
@@ -2000,7 +2000,7 @@
                         }),
                         (0, n.jsxs)("div", {
                           className:
-                            "absolute left-0 bottom-[1.3rem] md:bottom-[2rem] w-full px-container flex justify-end grid-cols-12 z-5",
+                            "absolute left-0 bottom-[1.3rem] md:bottom-[2rem] w-full px-container flex justify-end grid-cols-12 z-5 dnone",
                           children: [
                             t.primary.live_event &&
                               (0, n.jsx)("div", {
