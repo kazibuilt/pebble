@@ -16116,8 +16116,8 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
                                     "body-mono-10 tracking-0.05 text-dark_grey",
                                   children: (0, s.jsx)(I.Z, {
                                     className:
-                                      "flex items-center px-10 py-15 bg-light_beige rounded-[0.8rem] h-[5.2rem] lg:h-full",
-                                    href: "/preorder",
+                                      "flex items-center px-10 py-15 bg-orange rounded-[0.8rem] h-[5.2rem] lg:h-full",
+                                    href: "/explore",
                                     children: Y.data.cta_text,
                                   }),
                                 }),

@@ -2160,7 +2160,7 @@ video {
 }
 .bg-orange {
   --tw-bg-opacity: 1;
-  background-color: rgb(var(--color-orange) / var(--tw-bg-opacity));
+  background-color: #fb7339;
 }
 .bg-transparent {
   background-color: transparent;
