@@ -1761,7 +1761,7 @@
                       { scale: 1, borderRadius: 0 },
                       {
                         scale: window.innerWidth < 768 ? 0.965 : 0.972,
-                        borderRadius: 30,
+                        borderRadius: 0,
                       },
                       0
                     );
