@@ -3,7 +3,7 @@
   {
     7246: function (e, t, r) {
       (window.__NEXT_P = window.__NEXT_P || []).push([
-        "/preorder",
+        "/underconstruction",
         function () {
           return r(7345);
         },

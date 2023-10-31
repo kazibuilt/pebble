@@ -411,7 +411,7 @@
                                 className: "body-36 font-headings",
                                 children: (0, r.jsx)(o.Z, {
                                   ...("preorder" === e.link.type
-                                    ? { href: "/preorder" }
+                                    ? { href: "/underconstruction" }
                                     : { field: e.link }),
                                   className:
                                     "transition-opacity duration-global ease-out hover:opacity-50",

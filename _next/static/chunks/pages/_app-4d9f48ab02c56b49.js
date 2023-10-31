@@ -16030,7 +16030,7 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
                               "p-[0.2rem] bg-white h-full rounded-e-12 rounded-s-none pointer-events-auto",
                             ref: l,
                             children: (0, s.jsx)(I.Z, {
-                              href: "/preorder",
+                              href: "/underconstruction",
                               onMouseEnter: () => {
                                 P.p8.effects.blink(M.current[0].chars);
                               },
