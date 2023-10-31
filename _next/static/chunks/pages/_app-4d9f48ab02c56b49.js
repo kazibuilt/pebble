@@ -16027,7 +16027,7 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
                           }),
                           (0, s.jsx)("div", {
                             className:
-                              "p-[0.2rem] bg-white h-full rounded-e-12 rounded-s-none pointer-events-auto",
+                              "p-[0.2rem] bg-orange h-full rounded-e-12 rounded-s-none pointer-events-auto",
                             ref: l,
                             children: (0, s.jsx)(I.Z, {
                               href: "/underconstruction",
